@@ -1,0 +1,4 @@
+I had uploaded 3 codes.A simple neural network,digit recognizer(kaggle datatset) using numpy and panda through creating hidden layers and a regression problem without sk learn(data found in a project(aca) i had done).
+I had explained the concept of neural network in the pdf submitted,more of i had used andrew ng and few articles for understanding the topic and all the function.
+I had mentioned the forward,backward propagation,gradient descent and use of acativation function in the pdf submitted,more of i will explain it further in the interview if selected
+The basic idea remains same the maths we use for creating regression solution and hidden layer and it's backward and forward propagtion .
